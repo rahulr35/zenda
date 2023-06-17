@@ -90,6 +90,16 @@
             <artifactId>fixture-factory</artifactId>
             <version>3.1.0</version>
         </dependency>
+        <dependency>
+            <groupId>io.github.sskorol</groupId>
+            <artifactId>test-data-supplier</artifactId>
+            <version>2.2.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com.creditdatamw.labs</groupId>
+            <artifactId>zerocell-core</artifactId>
+            <version>0.3.2</version>
+        </dependency>
     </dependencies>
     <build>
         <plugins>
